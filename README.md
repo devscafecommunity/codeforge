@@ -8,7 +8,7 @@ O CodeForge é uma jornada semanal de desafios de programação que acontece na 
 
 1. **Participação:** Qualquer membro da comunidade DevsCafé pode embarcar na aventura do CodeForge. Simplesmente entre em nosso servidor Discord em [discord.gg/skwJuprZAP](https://discord.gg/skwJuprZAP) para começar a jornada.
 
-2. **Desafios Semanais:** A cada semana, um novo desafio será revelado magicamente à meia-noite (no horário local) na página do evento em [devscafe.pt/codeforge](https://devscafe.pt/codeforge). Os participantes terão uma semana inteira para enfrentar o desafio proposto.
+2. **Desafios Semanais:** A cada semana, um novo desafio será revelado magicamente à meia-noite (no horário local) na página do evento em [devscafe.pt/codeforge](https://devscafe.pt/codeforge/dailyquest). Os participantes terão uma semana inteira para enfrentar o desafio proposto.
 
 ### Regras:
 

@@ -1,4 +1,4 @@
-**Bem-vindo ao CodeForge!**
+# **Bem-vindo ao CodeForge!**
 
 O CodeForge é um evento semanal de desafios de programação realizado na comunidade Discord do DevsCafé. Se você gosta de desafios de codificação e deseja melhorar suas habilidades, este é o lugar certo para você!
 

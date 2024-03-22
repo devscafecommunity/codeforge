@@ -1,3 +1,5 @@
+![Codeforge](https://raw.githubusercontent.com/devscafecommunity/codeforge/main/assets/logo.png)
+
 # **Bem-vindo ao CodeForge!**
 
 O CodeForge é uma jornada semanal de desafios de programação que acontece na vibrante comunidade Discord do DevsCafé. Se você é apaixonado por desafios de codificação e está em busca de aprimorar suas habilidades, você está no lugar certo!

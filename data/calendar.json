@@ -12,6 +12,16 @@
           "titulo": "História: A Criação da Forca Real",
           "informacao_adicional": "No reino de Avaloria, um lugar onde a magia e a aventura se entrelaçam, havia um povoado tranquilo conhecido como Vilarejo dos Sussurros. Este vilarejo era famoso por suas festividades e pela habilidade de seus habitantes em desafios de habilidade e estratégia.\n\nCerto dia, o rei de Avaloria, o nobre Rei Arthur, decidiu visitar o Vilarejo dos Sussurros para conhecer seus ilustres habitantes. Durante sua estadia, ele foi desafiado por um camponês astuto chamado Cedric, que propôs um jogo de adivinhação que ele chamava de 'A Forca Real'.\n\nA proposta era simples: Cedric escolheria uma palavra secreta e o Rei Arthur teria que adivinhar cada letra da palavra. Para cada letra errada, uma parte de um boneco seria desenhada em uma forca. Se o Rei Arthur conseguisse adivinhar a palavra antes que o boneco estivesse completo, ele venceria.\n\nIntrigado pela ideia, o Rei Arthur aceitou o desafio e jogou com entusiasmo. O jogo provou ser um grande sucesso, e logo se espalhou por todo o reino de Avaloria, tornando-se conhecido como 'A Forca Real'.\n\nImpressionado com a criatividade e entretenimento proporcionado pelo jogo, o Rei Arthur decretou que 'A Forca Real' seria oficialmente reconhecida como uma atividade de lazer no reino. E assim, a tradição da Forca Real foi estabelecida, trazendo diversão e desafio para os cidadãos de Avaloria por muitas gerações.\n\nHoje, desafiamos você a recriar este antigo passatempo medieval em forma de código. Junte-se à aventura e desenvolva um programa que traga a magia da Forca Real para os dias de hoje!",
           "imagem": "https://raw.githubusercontent.com/devscafecommunity/codeforge/main/chalanges/24-03-22/hangman.png"
+        },
+        {
+          "desafio": 5,
+          "data": "2024-03-29",
+          "descricao": "Crie um programa que implemente uma criptografia de mensagens.",
+          "resolucao": "https://github.com/devscafecommunity/codeforge/blob/main/chalanges/05-04-2024/cript.py",
+          "pontos": 125,
+          "titulo": "História: A Cripta do Dragão",
+          "informacao_adicional": "Nos recantos mais sombrios e misteriosos das montanhas de Drakonia, uma lenda ancestral ecoa pelos vales. Diz-se que um dragão colossal, com escamas reluzentes como ouro, repousava em uma caverna oculta, guardando um tesouro inimaginável. Porém, não era apenas a ferocidade da criatura que mantinha os aventureiros à distância. Um antigo código, sussurrado pelos ventos das montanhas, envolvia o tesouro em um mistério impenetrável. A história ecoava pelos séculos: somente os mais destemidos e astutos poderiam desvendar os enigmas entrelaçados nas palavras, alcançar o cerne do código e desbloquear as riquezas escondidas. Aqueles que ousavam enfrentar esse desafio eram testados não apenas por sua coragem, mas também por sua perspicácia e habilidade para decifrar os segredos mais profundos. Hoje, o desafio é lançado novamente aos audazes. Em meio à era digital, você é convocado a reviver a saga do código do dragão, agora em forma de linhas de código. Uma jornada para desenvolver um programa capaz de encriptar mensagens, trazendo à tona os mistérios antigos e abrindo caminho para o lendário tesouro. Entre na busca pelo tesouro perdido, onde a bravura se mescla com a inteligência, e os enigmas são tão afiados quanto as garras do dragão. Prepare-se para decifrar os segredos ocultos nas palavras e desvendar o legado do mítico guardião das montanhas. Pois apenas aqueles que dominam os segredos do código do dragão podem almejar a glória eterna e a riqueza além da imaginação.",
+          "imagem": "https://raw.githubusercontent.com/devscafecommunity/codeforge/main/chalanges/05-04-2024/cript.png"
         }
       ]
     },
@@ -20,7 +30,7 @@
       "desafios": [
         {
           "desafio": 5,
-          "data": "2024-04-29",
+          "data": "2024-04-01",
           "descricao": "Crie um programa que implemente uma criptografia de mensagens.",
           "resolucao": "https://github.com/devscafecommunity/codeforge/blob/main/chalanges/05-04-2024/cript.py",
           "pontos": 125,

@@ -20,7 +20,7 @@
       "desafios": [
         {
           "desafio": 5,
-          "data": "2024-03-22",
+          "data": "2024-04-29",
           "descricao": "Crie um programa que implemente uma criptografia de mensagens.",
           "resolucao": "https://github.com/devscafecommunity/codeforge/blob/main/chalanges/05-04-2024/cript.py",
           "pontos": 125,
